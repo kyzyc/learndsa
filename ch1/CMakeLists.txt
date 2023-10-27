@@ -1,1 +1,1 @@
-add_executable(bubble_sort.out bubble_sort.cpp)
+add_executable(bubble_sort bubble_sort.cpp)
