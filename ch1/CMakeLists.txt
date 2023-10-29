@@ -1,1 +1,6 @@
 add_executable(bubble_sort bubble_sort.cpp)
+add_executable(fib_v1 fib_v1.cpp)
+add_executable(fib_v2 fib_v2.cpp)
+add_executable(fib_v3 fib_v3.cpp)
+add_executable(lcs_v1 lcs_v1.cpp)
+add_executable(lcs_v3 lcs_v3.cpp)

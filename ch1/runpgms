@@ -1,3 +1,8 @@
 #!/usr/bin/bash
 
 echo "bubble_sort:" && ./bubble_sort < ./data/bubble.txt
+# ./fib_v1 < ./data/fib_v1.txt
+./fib_v2 < ./data/fib_v2.txt
+./fib_v3 < ./data/fib_v3.txt
+./lcs_v1 < ./data/lcs_v1.txt
+./lcs_v3 < ./data/lcs_v3.txt
